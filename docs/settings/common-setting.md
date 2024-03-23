@@ -20,7 +20,7 @@ MENTAで扱うWebアプリケーション開発に必要な環境構築内容を
 ## Node.js環境
 
 - Voltaを使って
-    - [Node.jsをインストールする](/docs/settings/install-nodejs.md) の資料を参考に
+    - [Node.jsをインストールする](/settings/install-nodejs.md) の資料を参考に
         - Node.jsをインストール
         - yarnをインストール
     - Windowsの場合は[こちら](https://docs.volta.sh/guide/getting-started)の「Windows Installation」からインストールお願いします
