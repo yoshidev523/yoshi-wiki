@@ -28,7 +28,7 @@ MENTAで扱うWebアプリケーション開発に必要な環境構築内容を
     - [こちら](https://code.visualstudio.com/) からインストール
 
 
-## Java環境
+## Java・Kotlin環境
 
 - IntelliJ Community Editionのインストール
     - [こちら](https://www.jetbrains.com/ja-jp/idea/download/?section=mac) よりインストールお願いします。もし有償版のIntelliJ Ultimateをお持ちの場合はそちらをお使いください。
