@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 4.9
 ---
 
-# UIデザインを反映する
+# 今までに作成したコンポーネントを組み立てる
 
 ## イメージ
 
@@ -12,7 +12,7 @@ sidebar_position: 4
 
 ## 受け入れ条件
 
-- UIデザインをReactのコードに落とし込む
+- Title、Display、Buttonコンポーネントを組み合わせて電卓のUIを仕上げる
 
 ## 注意
 
