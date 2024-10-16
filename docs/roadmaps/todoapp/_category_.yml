@@ -1,9 +1,9 @@
 position: 5 # float position is supported
-label: 'TODOアプリ'
+label: 'TODOアプリ(SinglePage)'
 collapsible: true # make the category collapsible
 collapsed: true # keep the category open by default
 link:
   type: generated-index
-  title: TODOアプリ
+  title: TODOアプリ(SinglePage)
 customProps:
-  description: TODOアプリのロードマップをまとめます。
+  description: TODOアプリ(SinglePage)のロードマップをまとめます。
