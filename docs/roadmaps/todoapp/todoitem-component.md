@@ -35,6 +35,6 @@ https://www.figma.com/file/qsxn8ppZsyBSVU5BFAumbk/SinglePageTodoApp?type=design&
 ## 必要条件
 
 - UIの実装
-- スナップショットテストの実装
-- Storybook実装
 - 更新処理、削除処理は実際にAPIの通信処理をしなくても良い。モック化するか、ローカル環境にて永続化処理を行う（localStorageを使うなど）
+- スナップショットテストの実装（オプション）
+- Storybook実装（オプション）

@@ -18,8 +18,8 @@ https://www.figma.com/file/qsxn8ppZsyBSVU5BFAumbk/SinglePageTodoApp?type=design&
 ## 必要条件
 
 - UIの実装
-- スナップショットテストの実装
-- Storybook実装
+- スナップショットテストの実装（オプション）
+- Storybook実装（オプション）
 
 ## 実装のヒント
 
